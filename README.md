@@ -1,1 +1,1 @@
-# HackerRank---C-Language-Proficiency-
+# HackerRank-C++-Language-Proficiency-
